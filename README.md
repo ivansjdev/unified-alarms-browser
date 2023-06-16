@@ -13,3 +13,5 @@ The frontend requests the data from my openpipe-api REST API, which makes use of
 
 ## Screenshots
 ![Screenshot](./images/Browser.PNG)
+![Screenshot](./images/row-selection.PNG)
+![Screenshot](./images/Multiple-filter.PNG)
