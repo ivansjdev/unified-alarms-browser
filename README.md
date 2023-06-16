@@ -12,4 +12,4 @@ The frontend requests the data from my openpipe-api REST API, which makes use of
 - Node.js
 
 ## Screenshots
-![Screenshot](./images/Browser.png)
+![Screenshot](./images/Browser.PNG)
