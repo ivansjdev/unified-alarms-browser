@@ -10,3 +10,6 @@ The frontend requests the data from my openpipe-api REST API, which makes use of
 - Vite
 - WinCC Unified Open Pipe
 - Node.js
+
+## Screenshots
+![Screenshot](./images/Browser.png)
