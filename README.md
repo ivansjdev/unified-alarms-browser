@@ -1,4 +1,8 @@
-# unified-alarms-browser
+<div align="center">
+
+# Unified Alarms Browser 
+
+</div>
 
 ## Description
 This is a simple frontend application that allows users to search for configured alarms in WinCC Unified PC or Unified Comfort Panels.
